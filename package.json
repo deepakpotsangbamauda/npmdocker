@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "npmdocker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Deepak",
+  "license": "MIT",
+  "description": "Sample NodeJS Project with Expres FrameWork and Running in Docker Container",
+  "keywords": []
+}
