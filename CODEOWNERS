@@ -1,0 +1,12 @@
+# These owners will be the default owners for everything in
+# the repository.
+* maleka7733
+
+# These owners are the default owners for the docs directory.
+/docs/ maleka7733
+
+# These owners are for JavaScript files.
+*.js maleka7733
+
+# These owners are for everything in the src directory.
+/src/ maleka7733
